@@ -632,6 +632,10 @@ body{
     .img-section img {
         width:100%;
     }
+    .question-content, .question-conten, .question-contenti, .qa-section__content {
+        width:100%;
+    }
+  
     .box-list_img {
         width:100%;
     }
